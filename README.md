@@ -1,29 +1,38 @@
-## Your Name
+WIP
+## Alfie Darko
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I like problem-solving and finding solutions. Looking for a role with exposure to lots of different technologies! (Especially React & Golang). An environment where continued progression is valued is one where I'd love to contribute towards.
+
+Selected to be part of the Makers Academy Fellowship Program.
 
 ## Skills
 
-#### This Skill
+#### Independent Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- For our fcebook clone project, got up to speed with rails, actioncable, coffeescrip & redis in a few days
+- implemented a facebook chat style messenger that displays online and offline status.
+- Comfortable with learning new tech and delivering working features under time-constraints
+- (*Link to acebook chat repo*)
 
-- Experience
-- Achievements
-- Evidence
+#### Business Awareness
+ - Can see industrial implications from design decisions.
+ - Understanding business principles can lead to better design decisions (customer focus)
+ - *put something to do with clickcleanit*
 
-#### Another Skill
+#### Creative Solutions
+ - Used Twilio (Customer SMS biz) for a weekend challenge project and immediately saw how I could adapt this for my business
+ - Building an sms system that automatically messages sub-contractors essential job details as soon as they come in.
+ - Automating this part of our business will help save time and cut down on disrepencies in regards to job details
+ -(*insert github repo here*)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Mentoring (helping others)
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
+- Entered the Makers Academy Mentorship Programme mentoring 2 Makers students from their start.
+- Writing medium articles catered to them on my experiences on the course (https://medium.com/@AlfieDarko)
+- Regularly check in with them to see how they are doing on the course and if they have any concern
+-
 ## Education
-
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February '18 - May '18)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +43,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+#### Sir George Monoux College ('07-'09)
+- A Levels: English Literature & Language, Economics and Law
+- Grades: (BBB)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**ClickCleanit** (2017 to present)    
+*Co-founder*  
+- Setup website and developed internal job posting system.
+- Cold approaching & pitching to new potential clients.
+- In charge of pioneering new subscription models to many of our services
+- Successfully transitioned from cleaning to property maintainence & management in less than a year
+
+**Company Name** (Sep 2012 to 2014)   
+*Events Promoter*  
+- Club nights for students
+- Approaching Night Clubs, pitching our event ideas
+- Designing Tickets & Leaflets
+- Organising & employing ticket reps in uni student halls
