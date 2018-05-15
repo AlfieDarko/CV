@@ -1,16 +1,47 @@
 WIP
-## Alfie Darko
+##Alfie Darko
 
-I like problem-solving and finding solutions. Looking for a role with exposure to lots of different technologies! (Especially React & Golang). An environment where continued progression is valued is one where I'd love to contribute towards.
+<a href="#">Projects</a> |
+<a href="#">Recent Experience</a> |
+<a href="#">Skills</a> |
+<a href="#">Interests</a> |
 
-Selected to be part of the Makers Academy Fellowship Program.
+<hr>
+
+I like problem-solving and finding solutions. Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member. Looking for a role with exposure to lots of different technologies! (Especially React & Golang). An environment where continued progression is valued is one where I'd love to contribute towards.
+
+## Projects
+| Project | Description | Tech | Testing |
+| --- | --- | --- | --- | --- |
+| Acebook| Our week 8 group challenge was to build a functional clone of Facebook. | Rails, CoffeeScript, Javascript, JQuery | RSpec, TravisCI |
+| Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby | RSpec, TravisCI |
+|Gilded Rose Tech Test |Completed Post Makers. I chose to complete this challenge in Golang as to see how well I could pick up another language on the fly |Golang |Go Testing Package|
+|Dreamstay | Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new techstack. This was our first group challenge|Javascript, Express, JQuery, Node.js, MongoDB ||
+|Chitter| Week 5 Weekend Challenge. We had to create a fully featured twitter clone over the weekend| Ruby, Sinatra, Javascript| RSpec|
+
+## Recent Experience
+##### Developer @ Makers Academy (Feb 2018 to May 2018)
+  - Engaging soft skills whilst honing our technical craft. Pairing & groupwork taught me so much & it would be impossible to gain that knowledge by coding at home by myself.
+  - Increasedly saw the importance of TDD from the first day until the last. In our bigger group porjects, TDD made us think more modularly about code and improved our overall code architecture.
+  -
+
+##### Co-founder @ ClickCleanit (2017 - Now)
+ - Successfully transitioned from cleaning to property maintainence & management in less than a year by identifying inter-related business.
+ - Developed my soft skills by jumping in at the deep end. Cold approaching & pitching to new potential clients was scary at first but the lessons learnt were priceless.
+ -
+
+##### Events Promoter (2014-2016)
+- Helped promote various club nights for students
+- Approaching Night Clubs, pitching event ideas
+- Sourced suppliers for ticket & leaflet printing
+- Organising & employing ticket reps in uni student halls
 
 ## Skills
 
 #### Independent Learner
 
-- For our fcebook clone project, got up to speed with rails, actioncable, coffeescrip & redis in a few days
-- implemented a facebook chat style messenger that displays online and offline status.
+- For our facebook clone project, we had to get to grips with rails, ActionCable, Coffee-script & Redis in a few days.
+- Implemented the facebook chat style messenger that displays online and offline status in a few days.
 - Comfortable with learning new tech and delivering working features under time-constraints
 - (*Link to acebook chat repo*)
 
@@ -30,35 +61,6 @@ Selected to be part of the Makers Academy Fellowship Program.
 - Entered the Makers Academy Mentorship Programme mentoring 2 Makers students from their start.
 - Writing medium articles catered to them on my experiences on the course (https://medium.com/@AlfieDarko)
 - Regularly check in with them to see how they are doing on the course and if they have any concern
--
-## Education
-#### Makers Academy (February '18 - May '18)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Sir George Monoux College ('07-'09)
-- A Levels: English Literature & Language, Economics and Law
-- Grades: (BBB)
-
-## Experience
-
-**ClickCleanit** (2017 to present)    
-*Co-founder*  
-- Setup website and developed internal job posting system.
-- Cold approaching & pitching to new potential clients.
-- In charge of pioneering new subscription models to many of our services
-- Successfully transitioned from cleaning to property maintainence & management in less than a year
-
-**Company Name** (Sep 2012 to 2014)   
-*Events Promoter*  
-- Club nights for students
-- Approaching Night Clubs, pitching our event ideas
-- Designing Tickets & Leaflets
-- Organising & employing ticket reps in uni student halls
+## Interests
