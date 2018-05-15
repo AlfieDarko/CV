@@ -13,7 +13,7 @@ Looking for a role with exposure to lots of different technologies! (Especially 
 An environment where continued progression is valued is one where I'd love to contribute towards.
 
 ## Projects
- Project | Description | Tech | Testing
+| Project                                                             | Description                                                                                                                                                                                                                                                   | Technologies                                            | Deployed?                                        |
 --- | --- | --- | --- | ---
 
 ## Recent Experience
