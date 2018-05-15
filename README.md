@@ -5,11 +5,11 @@
 <a href="#">Skills</a> |
 <a href="#">Interests</a> |
 
-<hr>
+<hr></hr>
 
-I like problem-solving and finding solutions.<br>
-Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.<br>
-Looking for a role with exposure to lots of different technologies! (Especially React & Golang).<br>
+I like problem-solving and finding solutions.</br>
+Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.</br>
+Looking for a role with exposure to lots of different technologies! (Especially React & Golang).</br>
 An environment where continued progression is valued is one where I'd love to contribute towards.
 
 ## Projects
