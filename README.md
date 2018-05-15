@@ -13,8 +13,12 @@ Looking for a role with exposure to lots of different technologies! (Especially 
 An environment where continued progression is valued is one where I'd love to contribute towards.
 
 ## Projects
-| Project                                                             | Description                                                                                                                                                                                                                                                   | Technologies                                            | Deployed?                                        |
---- | --- | --- | --- | ---
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
