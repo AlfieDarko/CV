@@ -7,7 +7,10 @@
 
 <hr>
 
-I like problem-solving and finding solutions. Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member. Looking for a role with exposure to lots of different technologies! (Especially React & Golang). An environment where continued progression is valued is one where I'd love to contribute towards.
+I like problem-solving and finding solutions.<br>
+Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.<br>
+Looking for a role with exposure to lots of different technologies! (Especially React & Golang).<br>
+An environment where continued progression is valued is one where I'd love to contribute towards.
 
 ## Projects
 | Project | Description | Tech | Testing |
@@ -16,7 +19,7 @@ I like problem-solving and finding solutions. Recent Graduate of Makers Academy 
 | Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby | RSpec, TravisCI |
 |Gilded Rose Tech Test |Completed Post Makers. I chose to complete this challenge in Golang as to see how well I could pick up another language on the fly |Golang |Go Testing Package|
 |Dreamstay | Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new techstack. This was our first group challenge|Javascript, Express, JQuery, Node.js, MongoDB | Mocha, Chai|
-|Chitter| Week 5 Weekend Challenge. We had to create a fully featured twitter clone over the weekend| Ruby, Sinatra, Javascript| RSpec|
+|Chitter| Week 5 Weekend Challenge. We had to create a fully featured twitter clone over the weekend| Ruby, Sinatra, Javascript| RSpec |
 
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
