@@ -19,6 +19,11 @@ An environment where continued progression is valued is one where I'd love to co
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+Column 1 |Column 2
+---|---
+foo | bar
+baz| qux
+quux|quuz
 
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
