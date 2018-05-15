@@ -1,4 +1,4 @@
-## Alfie Darko
+# Alfie Darko
 
 <a href="#">Projects</a> |
 <a href="#">Recent Experience</a> |
@@ -15,8 +15,8 @@ An environment where continued progression is valued is one where I'd love to co
 ## Projects
 | Project | Description | Tech | Testing |
 | --- | --- | --- | --- | --- |
-|Acebook| Our week 8 group challenge was to build a functional clone of Facebook. | Rails, CoffeeScript, Javascript, JQuery | RSpec, TravisCI |
-|Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby | RSpec, TravisCI |
+| Acebook| Our week 8 group challenge was to build a functional clone of Facebook. | Rails, CoffeeScript, Javascript, JQuery | RSpec, TravisCI |
+| Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby | RSpec, TravisCI |
 |Gilded Rose Tech Test |Completed Post Makers. I chose to complete this challenge in Golang as to see how well I could pick up another language on the fly |Golang |Go Testing Package|
 |Dreamstay | Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new techstack. This was our first group challenge|Javascript, Express, JQuery, Node.js, MongoDB | Mocha, Chai|
 |Chitter| Week 5 Weekend Challenge. We had to create a fully featured twitter clone over the weekend| Ruby, Sinatra, Javascript| RSpec |
