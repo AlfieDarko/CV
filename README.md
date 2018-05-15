@@ -1,4 +1,4 @@
-##Alfie Darko
+## Alfie Darko
 
 <a href="#">Projects</a> |
 <a href="#">Recent Experience</a> |
