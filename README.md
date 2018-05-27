@@ -26,14 +26,14 @@ Job-Slink| Pending Project using GraphQL & React. Automated sms system to inform
 
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
-  - Engaging soft skills whilst honing our technical craft. Pairing & groupwork taught me so much & it would be impossible to gain that knowledge by coding at home by myself.
-  - Increasedly saw the importance of TDD from the first day until the last. In our bigger group porjects, TDD made us think more modularly about code and improved our overall code architecture.
-  -
+  - Engaging soft skills whilst honing our technical craft. Pairing & group-work taught me so much & it would be impossible to gain that knowledge by coding at home by myself.
+  - Increasingly saw the importance of TDD from the first day until the last. In our bigger group projects, TDD made us think more modularly about code and improved our overall code architecture.
+  - Adopted Agile, XP, SOLID & DRY principles and applied these throughout the 16 weeks spent developing our technical skills.
 
 ##### Co-founder @ ClickCleanit (2017 - Now)
- - Successfully transitioned from cleaning to property maintainence & management in less than a year by identifying inter-related business.
+ - Successfully transitioned from cleaning to property maintenance & management in less than a year by identifying inter-related business.
  - Developed my soft skills by jumping in at the deep end. Cold approaching & pitching to new potential clients was scary at first but the lessons learnt were priceless.
- -
+ - Setup the website & Google AdWord campaigns. Doing this allowed me to grasp the basics of search engine marketing before outsourcing this task to professionals. Being willing & able to do things outside of your comfort zone is essential!
 
 ##### Events Promoter (2014-2016)
 - Helped promote various club nights for students
@@ -45,10 +45,10 @@ Job-Slink| Pending Project using GraphQL & React. Automated sms system to inform
 
 #### Independent Learner
 
-- For our facebook clone project, we had to get to grips with rails, ActionCable, Coffee-script & Redis in a few days.
-- Implemented the facebook chat style messenger that displays online and offline status in a few days.
+- For our facebook clone project, I had to get to grips with rails, ActionCable, Coffee-script & Redis in a few days.
+- Implemented the facebook chat style messenger that displays online and offline status in that time.
 - Comfortable with learning new tech and delivering working features under time-constraints
-- (*Link to acebook chat repo*)
+- https://github.com/AlfieDarko/acebook-byte-3
 
 #### Business Awareness
  - Can see industrial implications from design decisions.
@@ -58,8 +58,7 @@ Job-Slink| Pending Project using GraphQL & React. Automated sms system to inform
 #### Creative Solutions
  - Used Twilio (Customer SMS biz) for a weekend challenge project and immediately saw how I could adapt this for my business
  - Building an sms system that automatically messages sub-contractors essential job details as soon as they come in.
- - Automating this part of our business will help save time and cut down on disrepencies in regards to job details
- -(*insert github repo here*)
+ - Automating this part of our business will help save time and cut down on discrepancies in regards to job details
 
 #### Mentoring (helping others)
 
@@ -68,5 +67,7 @@ Job-Slink| Pending Project using GraphQL & React. Automated sms system to inform
 - Regularly check in with them to see how they are doing on the course and if they have any concern
 
 
-## Interests
--
+## Current Interests
+- Music Production
+- Cooking (eating)
+- Alternative Medicine
