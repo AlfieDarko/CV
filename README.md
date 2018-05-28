@@ -1,28 +1,31 @@
-# Alfie Darko
 
 <p align="center">
-<a href="https://github.com/AlfieDarko">
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github" hspace="50" height="42" width="42"></a>
-<a href="https://medium.com/@AlfieDarko">
-<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/alfie-darko/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+
+<a href="https://medium.com/@AlfieDarko">
+<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://github.com/AlfieDarko">
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github" hspace="50" height="42" width="42"></a>
+
 </p>
+
+# Alfie Darko
 
 [Projects ](#projects)  |
 [Recent Experience ](#recent-experience) |
 [Skills ](#skills) |
 [Current Interests ](#current-interests) |
-[Current Interests ](#current-interests) |
-[Networks & Contacts ](#current-interests) |
 
 
 <hr></hr>
 
-I like problem-solving and finding solutions.</br>
 Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.</br>
-Looking for a role with exposure to lots of different technologies! (Especially React & Golang).</br>
+I really enjoy problem-solving and thrive on finding solutions!
+Looking for a role with exposure to lots of different technologies (Especially React & Golang).</br>
 An environment where continued progression is valued is one where I'd love to contribute towards.
 
 ## Projects
