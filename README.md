@@ -1,6 +1,6 @@
 # Alfie Darko
 
-[PROJECTS](##Projects)  |
+[PROJECTS](##projects)  |
 <a href="#">Recent Experience</a> |
 <a href="#">Skills</a> |
 <a href="#">Interests</a> |
