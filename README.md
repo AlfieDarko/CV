@@ -31,10 +31,10 @@ An environment where continued progression is valued is one where I'd love to co
 
 Project | Description | Tech 
 ---|---|---
-Acebook | Facebook clone. Makers Academy group project, built in 2 weeks | Ruby, Rails, Javascript, CoffeeScript, JQuery |
+Acebook | Facebook clone. Makers Academy group project, built in 2 weeks. My role was to build the online chat feature! | Ruby, Rails, Javascript, CoffeeScript, JQuery |
 Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby
-Dreamstay|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge | Javascript, Express, JQuery, Node.js, MongoDB
-Chitter| Week 5 Weekend Challenge. We had to create a fully featured twitter clone over the weekend | Ruby, Sinatra, Javascript
+Dreamstay|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. My role was to build the backend in Node! | Javascript, Express, JQuery, Node.js, MongoDB
+Chitter| Week 5 Weekend Challenge. I had to create a twitter clone over the weekend | Ruby, Sinatra, Javascript
 
 ### Personal Projects 
 Project | Description | Tech
@@ -84,6 +84,7 @@ Till Tech Test | Started after Makers Academy. I chose to complete this challeng
 
 
 ## Current Interests
-- Music Production
+####Music Production
+A great way of escapism while being productive and engaging my creative side. This is what got me into technology.
 - Cooking (eating)
 - Alternative Medicine
