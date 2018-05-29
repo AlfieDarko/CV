@@ -1,6 +1,5 @@
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/alfie-darko/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
@@ -10,8 +9,8 @@
 
 <a href="https://github.com/AlfieDarko">
 <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github" hspace="50" height="42" width="42"></a>
-
 </p>
+
 # Alfie Darko
 
 [Projects ](#projects)  |
