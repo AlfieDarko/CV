@@ -39,7 +39,7 @@ Chitter| Week 5 Weekend Challenge. I had to create a twitter clone over the week
 Project | Description | Tech
 ---|---|---
 Job-Slink| Started after Makers Academy. Pending Project using GraphQL & React. Automated sms system to inform sub-contractors of job details | GraphQL, Node.js, React, Javascript.
-Till Tech Test | Started after Makers Academy. I chose to complete this challenge in Golang as to see how well I could pick up another language on the fly | Golang
+Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness. | Javascript
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
   - Engaging soft skills whilst honing our technical craft. Pairing & group-work taught me so much & it would be impossible to gain that knowledge by coding at home by myself.
