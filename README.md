@@ -12,7 +12,6 @@
 <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github" hspace="50" height="42" width="42"></a>
 
 </p>
-
 # Alfie Darko
 
 [Projects ](#projects)  |
@@ -30,16 +29,18 @@ An environment where continued progression is valued is one where I'd love to co
 
 ## Projects
 
-
-Project |Description | Tech
+Project | Description | Tech 
 ---|---|---
 Acebook | Facebook clone. Makers Academy group project, built in 2 weeks | Ruby, Rails, Javascript, CoffeeScript, JQuery |
 Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby
-Till Tech Test |Completed Post Makers. I chose to complete this challenge in Golang as to see how well I could pick up another language on the fly | Golang
 Dreamstay|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge | Javascript, Express, JQuery, Node.js, MongoDB
 Chitter| Week 5 Weekend Challenge. We had to create a fully featured twitter clone over the weekend | Ruby, Sinatra, Javascript
-Job-Slink| Pending Project using GraphQL & React. Automated sms system to inform sub-contractors of job details | GraphQL, Node.js, React, Javascript
 
+### Personal Projects 
+Project | Description | Tech
+---|---|---
+Job-Slink| Started after Makers Academy. Pending Project using GraphQL & React. Automated sms system to inform sub-contractors of job details | GraphQL, Node.js, React, Javascript.
+Till Tech Test | Started after Makers Academy. I chose to complete this challenge in Golang as to see how well I could pick up another language on the fly | Golang
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
   - Engaging soft skills whilst honing our technical craft. Pairing & group-work taught me so much & it would be impossible to gain that knowledge by coding at home by myself.
@@ -67,9 +68,8 @@ Job-Slink| Pending Project using GraphQL & React. Automated sms system to inform
 - https://github.com/AlfieDarko/acebook-byte-3
 
 #### Business Awareness
- - Can see industrial implications from design decisions.
- - Understanding business principles can lead to better design decisions (customer focus)
- - *put something to do with clickcleanit*
+ - Having experience running a business allows me to always see the business side of design decisions. Writing User Stories at Makers Academy in the planning stages of the development cycle made me hyper-aware of how important this is in software development too.
+ - Coming from instances where losing even 1 customer would have a profound effect on our company's cashflow, I really understand how important great customer service and communication is.
 
 #### Creative Solutions
  - Used Twilio (Customer SMS biz) for a weekend challenge project and immediately saw how I could adapt this for my business
