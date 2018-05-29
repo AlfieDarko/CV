@@ -83,7 +83,11 @@ Till Tech Test | Started after Makers Academy. I chose to complete this challeng
 
 
 ## Current Interests
-####Music Production
-A great way of escapism while being productive and engaging my creative side. This is what got me into technology.
-- Cooking (eating)
-- Alternative Medicine
+#### Music Production
+- A great way of escapism while being productive and engaging my creative side. This is what got me into technology.
+
+#### Restauranting
+- (eating). A good way to build with people and blow off some steam. It's a morale booster
+
+#### Alternative Medicine
+- I enjoy reading about alternative medicines for people with chronic illnesses and the legislative red tape & social arguments that stops people from getting the treatments they need
