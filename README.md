@@ -10,7 +10,7 @@
 <a href="https://github.com/AlfieDarko">
 <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github" hspace="50" height="42" width="42"></a>
 </p>
-<p align="center">
+<div align="center">
 
 # Alfie Darko
 
@@ -19,7 +19,7 @@
 [Skills ](#skills) |
 [Current Interests ](#current-interests) |
 
-</p>
+</div>
 
 <hr></hr>
 
