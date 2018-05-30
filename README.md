@@ -1,6 +1,5 @@
-<div align="center">
-# Alfie Darko
-</div>
+<center> <h1>Alfie Darko</h1> </center>
+
 
 <p align="center">
 
