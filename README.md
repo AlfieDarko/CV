@@ -96,3 +96,6 @@ Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher 
 
 #### Alternative Medicine
 - I enjoy reading about alternative medicines for people with chronic illnesses and the legislative red tape & social arguments that stops people from getting the treatments they need
+
+#### Westworld
+- HBO Produced TV show about artificial intelligence
