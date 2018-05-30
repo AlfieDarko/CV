@@ -26,8 +26,9 @@
 <hr></hr>
 
 Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.</br>
-I really enjoy problem-solving and thrive on finding solutions!
-Looking for a role with exposure to lots of different technologies (Especially React & Golang).</br>
+I really enjoy problem-solving and tinkering with things!
+I have a varied background with experience in customer facing roles which helps me bring communication and expressive skills to the table.<br>
+Ideally I'd be looking for a role with exposure to lots of interesting technologies (Especially React).</br>
 An environment where continued progression is valued is one where I'd love to contribute towards.
 
 ## Projects
