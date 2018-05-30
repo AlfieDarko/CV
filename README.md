@@ -30,8 +30,7 @@ An environment where continued progression is valued is one where I'd love to co
 
 Project | Description | Tech
 ---|---|---
-[Acebook](https://github.com/AlfieDarko/acebook-byte-3)
- | Facebook clone. Makers Academy group project, built in 2 weeks. My role was to build the online chat feature! | Ruby, Rails, Javascript, CoffeeScript, JQuery |
+[Acebook](https://github.com/AlfieDarko/acebook-byte-3)| Facebook clone. Makers Academy group project, built in 2 weeks. My role was to build the online chat feature! | Ruby, Rails, Javascript, CoffeeScript, JQuery |
 [Bank Tech Test](https://github.com/AlfieDarko/Bank-Tech-Test)|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby
 [Dreamstay](https://github.com/AlfieDarko/dream-stay)|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. My role was to build the backend in Node! | Javascript, Express, JQuery, Node.js, MongoDB
 [Chitter](https://github.com/AlfieDarko/chitter-challenge)| Week 5 Weekend Challenge. I had to create a twitter clone over the weekend | Ruby, Sinatra, Javascript
