@@ -28,17 +28,18 @@ An environment where continued progression is valued is one where I'd love to co
 
 ## Projects
 
-Project | Description | Tech 
----|---|---
-Acebook | Facebook clone. Makers Academy group project, built in 2 weeks. My role was to build the online chat feature! | Ruby, Rails, Javascript, CoffeeScript, JQuery |
-Bank Tech Test|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby
-Dreamstay|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. My role was to build the backend in Node! | Javascript, Express, JQuery, Node.js, MongoDB
-Chitter| Week 5 Weekend Challenge. I had to create a twitter clone over the weekend | Ruby, Sinatra, Javascript
-
-### Personal Projects 
 Project | Description | Tech
 ---|---|---
-Job-Slink| Started after Makers Academy. Pending Project using GraphQL & React. Automated sms system to inform sub-contractors of job details | GraphQL, Node.js, React, Javascript.
+[Acebook](https://github.com/AlfieDarko/acebook-byte-3)
+ | Facebook clone. Makers Academy group project, built in 2 weeks. My role was to build the online chat feature! | Ruby, Rails, Javascript, CoffeeScript, JQuery |
+[Bank Tech Test](https://github.com/AlfieDarko/Bank-Tech-Test)|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby
+[Dreamstay](https://github.com/AlfieDarko/dream-stay)|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. My role was to build the backend in Node! | Javascript, Express, JQuery, Node.js, MongoDB
+[Chitter](https://github.com/AlfieDarko/chitter-challenge)| Week 5 Weekend Challenge. I had to create a twitter clone over the weekend | Ruby, Sinatra, Javascript
+
+### Personal Projects
+Project | Description | Tech
+---|---|---
+[Job-Slink](https://github.com/AlfieDarko/job-slink)| Started after Makers Academy. Pending Project using GraphQL & React. Automated sms system to inform sub-contractors of job details | GraphQL, Node.js, React, Javascript.
 Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness. | Javascript
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
