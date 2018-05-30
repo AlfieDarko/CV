@@ -1,5 +1,7 @@
 
 <p align="center">
+# Alfie Darko
+
 <a href="https://www.linkedin.com/in/alfie-darko/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
@@ -12,7 +14,6 @@
 </p>
 <div align="center">
 
-# Alfie Darko
 
 [Projects ](#projects)  |
 [Recent Experience ](#recent-experience) |
