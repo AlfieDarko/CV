@@ -26,8 +26,8 @@
 <hr></hr>
 
 Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.</br>
-I really enjoy problem-solving and tinkering with things!
-I have a varied background with experience in customer facing roles which helps me bring communication and expressive skills to the table.<br>
+I really enjoy problem-solving and tinkering with things!<br>
+I have a varied background with experience in customer facing roles which helps me bring communication and expressive skills to the table.<br><br>
 Ideally I'd be looking for a role with exposure to lots of interesting technologies (Especially React).</br>
 An environment where continued progression is valued is one where I'd love to contribute towards.
 
@@ -92,10 +92,10 @@ Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher 
 - A great way of escapism while being productive and engaging my creative side. This is what got me into technology.
 
 #### Restauranting
-- (eating). A good way to build with people and blow off some steam. It's a morale booster
+- (eating). A good way to build with people and blow off some steam. It's a morale booster.
 
 #### Alternative Medicine
-- I enjoy reading about alternative medicines for people with chronic illnesses and the legislative red tape & social arguments that stops people from getting the treatments they need
+- I enjoy reading about alternative medicines for people with chronic illnesses and the legislative red tape & social arguments that stops people from getting the treatments they need.
 
 #### Westworld
-- HBO Produced TV show about artificial intelligence
+- HBO Produced TV show about artificial intelligence.
