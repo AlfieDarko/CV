@@ -60,7 +60,6 @@ My previous career roles in events promotions & also starting up a property main
   * Testing Frameworks: Sinatra, RSpec, Capybara, Jasmine, Mocha, Chai, Zombie
   * Others: Travis CI, CodeClimate, Heroku, AWS S3
 
-</ul></ul>
 ##### Co-founder @ ClickCleanit (www.clickcleanit.com) (2017 - 2018)
 
 * Successfully transitioned from cleaning to property maintenance & management in less than a year by identifying inter-related business.
