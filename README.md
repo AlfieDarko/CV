@@ -25,26 +25,25 @@
 
 <hr></hr>
 
-Recent Graduate of Makers Academy & also specially selected as a Makers Fellowship member.</br>
+I'm a recent graduate of Makers Academy & also specially selected as a Makers Fellowship member.</br>
 I really enjoy problem-solving and tinkering with things!<br>
-I have a varied background with experience in customer facing roles which helps me bring communication and expressive skills to the table.<br><br>
-Ideally I'd be looking for a role with exposure to lots of interesting technologies (Especially React).</br>
-An environment where continued progression is valued is one where I'd love to contribute towards.
+Previously experience in running a property maintanence business means I bring along a lot of other neat skills to the table!<br><br>
+Ideally I'd be looking for a role with exposure to lots of interesting technologies & a culture that encourages continued learning &  contributing to the software development scene!.</br>
 
 ## Projects
 
 Project | Description | Tech
 ---|---|---
-[Acebook](https://github.com/AlfieDarko/acebook-byte-3)| Facebook clone. Makers Academy group project, built in 2 weeks. My role was to build the online chat feature! | Ruby, Rails, Javascript, CoffeeScript, JQuery |
+[Acebook](https://github.com/AlfieDarko/acebook-byte-3)| Facebook clone. Makers Academy group project, built in 2 weeks. <b>My role was to build the online chat feature!</b> | Ruby, Rails, Javascript, CoffeeScript, JQuery |
 [Bank Tech Test](https://github.com/AlfieDarko/Bank-Tech-Test)|  Week 10 Tech Test challenge was to build a command line banking application according to the spec given. Focus was on DRY and SOLID principles | Ruby
-[Dreamstay](https://github.com/AlfieDarko/dream-stay)|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. My role was to build the backend in Node! | Javascript, Express, JQuery, Node.js, MongoDB
+[Dreamstay](https://github.com/AlfieDarko/dream-stay)|Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. <b>My role was to build the backend in Node & Express!</b> | Javascript, Express, JQuery, Node.js, MongoDB
 [Chitter](https://github.com/AlfieDarko/chitter-challenge)| Week 5 Weekend Challenge. I had to create a twitter clone over the weekend | Ruby, Sinatra, Javascript
 
 ### Personal Projects
 Project | Description | Tech
 ---|---|---
-[Job-Slink](https://github.com/AlfieDarko/job-slink)| Started after Makers Academy. Pending Project using GraphQL & React. Automated sms system to inform sub-contractors of job details | GraphQL, Node.js, React, Javascript.
-Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness. | Javascript
+[Job-Slink](https://github.com/AlfieDarko/job-slink)| Started after Makers Academy. Pending Project using GraphQL & React. Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | GraphQL, Node.js, React, Javascript.
+[Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness. | Javascript
 ## Recent Experience
 ##### Developer @ Makers Academy (Feb 2018 to May 2018)
   - Engaging soft skills whilst honing our technical craft. Pairing & group-work taught me so much & it would be impossible to gain that knowledge by coding at home by myself.
@@ -57,10 +56,10 @@ Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher 
  - Setup the website & Google AdWord campaigns. Doing this allowed me to grasp the basics of search engine marketing before outsourcing this task to professionals. Being willing & able to do things outside of your comfort zone is essential!
 
 ##### Events Promoter (2014-2016)
-- Helped promote various club nights for students
-- Approaching Night Clubs, pitching event ideas
-- Sourced suppliers for ticket & leaflet printing
-- Organising & employing ticket reps in uni student halls
+- Helped promote various club nights for students and young people in the Leicestershire area.
+- Approaching Night Clubs, collaborating with other promoters and pitching event ideas
+- Sourced suppliers for ticket & leaflet printing, maintaining great business relationships in order to drive down costs and increase efficiency.
+- Organising & employing ticket reps in uni student halls, delegating tasks to lead ticket reps and managing the ticket teams.
 
 ## Skills
 
@@ -72,13 +71,13 @@ Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher 
 - https://github.com/AlfieDarko/acebook-byte-3
 
 #### Business Awareness
- - Having experience running a business allows me to always see the business side of design decisions. Writing User Stories at Makers Academy in the planning stages of the development cycle made me hyper-aware of how important this is in software development too.
- - Coming from instances where losing even 1 customer would have a profound effect on our company's cashflow, I really understand how important great customer service and communication is.
+ - Having experience running a business allows me to recognise the little things that contribute to success.
+ - Coming from instances where losing even 1 customer would have a profound effect on our company's cashflow, I really understand how important great customer service and communication is. Developing User Stories at Makers Academy makes you assess design decisions from the point of view of the clients.
 
 #### Creative Solutions
- - Used Twilio (Customer SMS biz) for a weekend challenge project and immediately saw how I could adapt this for my business
- - Building an sms system that automatically messages sub-contractors essential job details as soon as they come in.
- - Automating this part of our business will help save time and cut down on discrepancies in regards to job details
+ - Used Twilio (SMS API Service) for a Ruby based weekend project and immediately saw how I could adapt this for my business
+ - Building an SMS system that automatically messages sub-contractors essential job details as soon as they come in.
+ - Always alert for things that may aid a solution down the road.
 
 #### Mentoring (helping others)
 
@@ -93,9 +92,6 @@ Till Tech Test | Started after Makers Academy. Pure Javascript coding refresher 
 
 #### Restauranting
 - (eating). A good way to build with people and blow off some steam. It's a morale booster.
-
-#### Alternative Medicine
-- I enjoy reading about alternative medicines for people with chronic illnesses and the legislative red tape & social arguments that stops people from getting the treatments they need.
 
 #### Westworld
 - HBO Produced TV show about artificial intelligence.
