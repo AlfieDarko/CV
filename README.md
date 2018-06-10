@@ -24,7 +24,7 @@
 A full-stack developer & Makers Academy Fellowship student who produces visually appealing products using clean and concise code. I am comfortable with both front & back-end technologies and have experience with a range of database technologies.
 I have a preference for front-end as it plays on my strengths relating to visual expression but I also enjoy working server-side too!.<br><br>
 
-My previous career roles in events promotions & also starting up a property maintenance business has allowed me to develop my communication skills to a standard that combined with what I have learnt with software development, gives me a great foundation for a successful tech career.
+My previous career roles in events promotions & property maintenance has allowed me to develop my communication & management skills to a standard that combined with what I have learnt with software development, gives me a great foundation for a successful tech career.
 
 ## Projects
 
@@ -39,7 +39,7 @@ My previous career roles in events promotions & also starting up a property main
 
 | Project                                                        | Description                                                                                                                                                                          | Tech                                 | Testing                      |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------- |
-| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Started after Makers Academy. Pending Project using GraphQL & React. Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | GraphQL, Node.js, React, Javascript. | Jest, Mocha                  |
+| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Started after Makers Academy. Pending Project using GraphQL & React. Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | Javascript,  Node.js, Express, GraphQL, Apollo, MonboDB, React.  | Jest, Mocha, ESLint, TravisCI, AWS                  |
 | [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness.                                                                                              | Javascript, JQuery                   | Mocha, Chai, Sinon, Capybara |
 
 ## Recent Experience
