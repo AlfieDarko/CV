@@ -26,7 +26,7 @@ I have a preference for front-end as it plays on my strengths relating to visual
 
 My previous career roles in events promotions & property maintenance has allowed me to develop my communication & management skills to a standard that combined with what I have learnt with software development, gives me a great foundation for a successful tech career.
 
-## Projects
+## Projects (At Makers)
 
 | Project                                                        | Description                                                                                                                                                                                              | Tech Stack                                                                    | Testing                   |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------- |
@@ -35,12 +35,12 @@ My previous career roles in events promotions & property maintenance has allowed
 | [Dreamstay](https://github.com/AlfieDarko/dream-stay)          | Week 6 group challenge. We were given a week to create an Airbnb style website in a brand new tech stack. This was our first group challenge. <b>My role was to build the backend in Node & Express!</b> | Javascript, Express, JQuery, Node.js, MongoDB                                 | Jasmine                   |
 | [Chitter](https://github.com/AlfieDarko/chitter-challenge)     | Week 4 Weekend Challenge. I had to create a twitter clone over the weekend                                                                                                                               | Ruby, Sinatra, Javascript                                                     | RSpec, Capybara RuboCop   |
 
-### Personal Projects
+### Projects (Post Makers)
 
 | Project                                                        | Description                                                                                                                                                                          | Tech                                 | Testing                      |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------- |
-| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Started after Makers Academy. Pending Project using GraphQL & React. Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | Javascript,  Node.js, Express, GraphQL, Apollo, MonboDB, React.  | Jest, Mocha, ESLint, TravisCI, AWS                  |
-| [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness.                                                                                              | Javascript, JQuery                   | Mocha, Chai, Sinon, Capybara |
+| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Started after Makers Academy. Pending Project using GraphQL & React. Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | Javascript,  Node.js, Express, GraphQL, MonboDB, React.  | Mocha, Chai, Sinon, Enzyme, NightmareJS ESLint, TravisCI, AWS                  |
+| [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | Started after Makers Academy. Pure Javascript coding refresher after a bout of illness.                                                                                              | Javascript, JQuery                   | Mocha, Chai, Sinon, ESLint |
 
 ## Recent Experience
 
@@ -77,31 +77,32 @@ My previous career roles in events promotions & property maintenance has allowed
 
 #### Communication
 
-I have been able to develop strong communication skills at ClickServices by necessity. Being a small company, meant that I had to quickly develop the ability to sell, the ability to manage and communicate effectively with staff, contractors and clients. Juggling roles meant me and my business partners had to be expressive and transmit information back and forth frequently. This was one of the biggest accellerators for this skillset for me.
+I have been able to develop strong communication skills during my time at ClickServices by necessity.
 
-It also allowed to me to approach pair programming and team projects comfortably. I felt comfortable communicating ideas and general direction to my peers because I knew communication was neccesary for any successful team activity.
+Being involved in small company meant that each of us had to contribute to building the clientbase of this business.
+This meant that we all needed to be involved in cold approaching clients and pitching our business to them. This was a slightly different from anything we have done before so it was challenging.
 
+We decided to just jump in at the deep end and canvas our local areas of estate agents 1 by 1 using Google Maps. Learning to accept rejection and flaking was tough but it taught us the only way we can minimise this and increase the seeds of our efforts is by being super-effective and efficient communicators.
+
+Our change in philosophy meant that we increased our conversion rates tremendously and now work with a large pool of trusted clients that we won over by explaining effectively how we could add value to their business.
 #### Client Centric
 
 My previous experience has allowed me to identify ways to create a positive experience for customers and clients. Many of our customers had very specific demands in terms on the management of their properties and it was our duty to uphold this. No two jobs were ever the same.
 <br><br>
-We recently had to help manage a demo event for Moley Robotics ( AI Robotic Kitchen Assistant). Even though this was slightly outside of our business services, my previous experience in events promotions and our desire to please customers meant we were able to be of assistance.
+We recently had to help manage a demo event for Moley Robotics ( AI Robotic Kitchen Assistant Company). Even though this was slightly outside of our business services, my previous experience in events promotions and our desire to please customers meant we were able to help.
+Communicating to our staff that the job is slightly different than usual and letting them know of the changed expectations, we were able to successfully assist Moley Robotics in their demo event.
 <br><br>
-I've used this client-centric approach when creating User Stories for a personal project. Being attentive to the detailed and specific needs of the the indended user can only aid in creating detailed spec & a fantastic product.
-
+As a result, we have kept a great and interesting clients by not being rigid in as to what we can deliver to clients. Being flexible whilst growing is so important.
 #### Problem Solving
-
-I always make a note of useful things I think could solve another problem later down the line.
-For our first weekend project, we had to use Twilio (SMS API Service) and I immediately thought about what problems this could solve at ClickServices.<br>
-I set myself a side project to build an SMS system that automatically messages sub-contractors essential job details as soon as they come in.<br><br>
-Keeping mental note of possible solutions has helped me immensly on the course. For our facebook project, we wanted to implement a live chat feature but had troubles coming up with a viable way to do so. I was able to implement an online chat feature using ActionCable, TurboLinks and Redis and implement a near faithful copy complete with online/offline status.
+I take pride in solving technical challenges. I appraoch them relentlessly.<br><br>
+For our facebook project, we wanted to implement a live chat feature but had troubles coming up with a viable way to do so via ruby on rails as many of the online resources regarding this was outdated. <br><br>
+Through experimentation, I was able to come up with a viable solution & working demo using ActionCable, TurboLinks and Redis and implement a near faithful copy complete with online/offline status. We now had a great product demo to demonstrate to our cohort and we were the only group to have managed to build the messenger feature as a result.
 
 #### Helpful Team Member
 
-At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance. I strongly believe you dont know something until you can teach it.<br>
-This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students.
-I also supplumented my mentorship to them by writing medium articles on my previous experiences on the course.<br><br>
-I am applying to be a CodeBar coach after I finish the course because helping people and giving back is important to me.
+At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance and feedback. I strongly believe you dont know something until you can teach it.<br><br>
+This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students. I also supplemented my mentorship to them by writing medium articles on my previous experiences during group work.<br><br>
+My mentees were able to avoid the pitfalls of groupwork that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that did'nt go so well. Reflection and feedback is how we level up and grow as a team rather than individuals and sharing is paramount to this.
 
 ## Current Interests
 
