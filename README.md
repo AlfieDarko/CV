@@ -24,9 +24,9 @@
 A full-stack developer & Makers Academy Fellowship student who produces visually appealing products using clean and concise code. I am comfortable with both front & back-end technologies and have experience with a range of database technologies.
 I have a preference for front-end as it plays on my strengths relating to visual expression but I also enjoy working server-side too!.<br><br>
 
-My previous career roles in events promotions & also starting up a property maintenance business has allowed me to develop my communication skills to a standard that combined with what I have learnt with software development, gives me a great foundation for a successful tech career.
+My previous career roles in events promotions & property maintenance has allowed me to develop my communication & management skills to a standard that combined with what I have learnt with software development, gives me a great foundation for a successful tech career.
 
-## Projects
+## Projects (At Makers)
 
 | Project                                                        | Description                                                                                                                                                                                              | Tech Stack                                    | Testing   |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------- |
@@ -35,13 +35,14 @@ My previous career roles in events promotions & also starting up a property main
 | [Dreamstay](https://github.com/AlfieDarko/dream-stay)          | Week 6 group challenge. We created a simple functional clone of AirBNB in 5 days. <b>My role in this group was to build the backend in Node & Express.</b> | Javascript, Express, JQuery, Node.js, MongoDB | Jasmine   |
 | [Chitter](https://github.com/AlfieDarko/chitter-challenge)     | Week 4 Weekend Challenge. <b>I had to implement a POSTGRESQL backend, custom ODM and frontend functionality in 3 days. </b>                                                                                                                         | Ruby, Sinatra, Javascript                     | RSpec, Capybara RuboCop   |
 
+### Projects (Post Makers)
 
 ### Personal Projects
 
 | Project                                                        | Description                                                                                                                                                                          | Tech                                 | Testing     |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ----------- |
-| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Started after Makers Academy. Pending Project using GraphQL & React. Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | GraphQL, Node.js, React, Javascript. | Jest, Mocha |
-| [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | Started after Makers Academy. I had to implement a fully functional cash machine register according to specification using IIFE class constructor patterns and prototypical inheritance within 7 days.                                                                                               | Javascript, JQuery                           |       Mocha, Chai, Sinon, Capybara      |
+| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | GraphQL, Node.js, React, Javascript. | Jest, Mocha |
+| [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | I had to implement a fully functional cash machine register according to specification using IIFE class constructor patterns and prototypical inheritance within 7 days.                                                                                               | Javascript, JQuery                           |       Mocha, Chai, Sinon, Capybara      |
 
 
 ## Recent Experience
@@ -62,58 +63,54 @@ My previous career roles in events promotions & also starting up a property main
   * Testing Frameworks: Sinatra, RSpec, Capybara, Jasmine, Mocha, Chai, Zombie
   * Others: Travis CI, CodeClimate, Heroku, AWS S3
 
-##### Co-founder @ ClickCleanit (www.clickcleanit.com) (2017 - 2018)
+##### Co-founder @ ClickServices / ClickCleanit LTD - (www.clickcleanit.com) (2017 - 2018)
 
-* Successfully transitioned from cleaning to property maintenance & management in less than a year by identifying inter-related business.
-* Built the business via cold approaching and pitching to potential clients. Communicating how we could improve their business through cost efficiency was key.
+* Successfully transitioned from cleaning to property maintenance & management in less than a year by identifying ways to bring down our clients costs via a stronger business relationship.
+* Built the business via cold approaching and pitching to potential clients. Our dedication to client satisfaction has been our engine of growth.
 * Managed core team of staff with varying roles from domestic cleaners & removal men to inventory clerks
-* Setup the website & Google AdWord campaigns. Doing this allowed me to grasp the basics of search engine marketing before outsourcing this task to professionals. I'm always willing to step outside my comfort zone to get the ball rolling.
-* Currently stepped down at my position to further pursue a career in software development
+* Setup the website & initial Google AdWord campaigns. Allows me to grasp the basics of SEO Marketing before outsourcing this task to professionals.
 
 ##### Events Promoter (Freelance) (2014-2016)
 
-* Helped promote various club nights for students and young people in the Leicestershire area.
 * Approaching Night Clubs, collaborating with other promoters and pitching event ideas according to local trends.
 * Sourced suppliers for ticket & leaflet printing, maintaining great business relationships in order to drive down marginal costs and increase efficiency.
-* Organising & employing ticket reps in university student halls, delegating tasks to lead ticket reps and managing the ticket teams.
+* Organising & employing ticket sales reps in university student halls, delegating tasks to lead ticket reps and managing overall ticket sales teams.
 
 ## Skills
 
-#### Independent Learner
+#### Communication
 
-* For our facebook clone project, I had to get to grips with rails, ActionCable, Coffee-script & Redis in a few days.
-* Implemented the facebook chat style messenger that displays online and offline status in that time.
-* Comfortable with learning new tech and delivering working features under time-constraints
-* https://github.com/AlfieDarko/acebook-byte-3
+I have been able to develop strong communication skills during my time at ClickServices by necessity.
 
-#### Business Awareness
+Being involved in small company meant that each of us had to contribute to building the clientbase of this business.
+This meant that we all needed to be involved in cold approaching clients and pitching our business to them. This was a slightly different from anything we have done before so it was challenging.
 
-* Having experience running a business allows me to recognise the little things that contribute to success.
-* Coming from instances where losing even 1 customer would have a profound effect on our company's cashflow, I really understand how important great customer service and communication is. Developing User Stories at Makers Academy makes you assess design decisions from the point of view of the clients.
+We decided to just jump in at the deep end and canvas our local areas of estate agents 1 by 1 using Google Maps. Learning to accept rejection and flaking was tough but it taught us the only way we can minimise this and increase the seeds of our efforts is by being super-effective and efficient communicators.
 
-#### Creative Solutions
+Our change in philosophy meant that we increased our conversion rates tremendously and now work with a large pool of trusted clients that we won over by explaining effectively how we could add value to their business.
+#### Client Centric
 
-* Used Twilio (SMS API Service) for a Ruby based weekend project and immediately saw how I could adapt this for my business
-* Building an SMS system that automatically messages sub-contractors essential job details as soon as they come in.
-* Always alert for things that may aid a solution down the road.
+My previous experience has allowed me to identify ways to create a positive experience for customers and clients. Many of our customers had very specific demands in terms on the management of their properties and it was our duty to uphold this. No two jobs were ever the same.
+<br><br>
+We recently had to help manage a demo event for Moley Robotics ( AI Robotic Kitchen Assistant Company). Even though this was slightly outside of our business services, my previous experience in events promotions and our desire to please customers meant we were able to help.
+Communicating to our staff that the job is slightly different than usual and letting them know of the changed expectations, we were able to successfully assist Moley Robotics in their demo event.
+<br><br>
+As a result, we have kept a great and interesting clients by not being rigid in as to what we can deliver to clients. Being flexible whilst growing is so important.
+#### Problem Solving
+I take pride in solving technical challenges. I appraoch them relentlessly.<br><br>
+For our facebook project, we wanted to implement a live chat feature but had troubles coming up with a viable way to do so via ruby on rails as many of the online resources regarding this was outdated. <br><br>
+Through experimentation, I was able to come up with a viable solution & working demo using ActionCable, TurboLinks and Redis and implement a near faithful copy complete with online/offline status. We now had a great product demo to demonstrate to our cohort and we were the only group to have managed to build the messenger feature as a result.
 
-#### Mentoring (helping others)
+#### Helpful Team Member
 
-* Entered the Makers Academy Mentorship Programme mentoring 2 Makers students from their start.
-* Writing medium articles catered to them on my experiences on the course (https://medium.com/@AlfieDarko)
-* Regularly check in with them to see how they are doing on the course and if they have any concern
-* Applying to be a Codebar coach after the Makers Academy to further build on this
+At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance and feedback. I strongly believe you dont know something until you can teach it.<br><br>
+This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students. I also supplemented my mentorship to them by writing medium articles on my previous experiences during group work.<br><br>
+My mentees were able to avoid the pitfalls of groupwork that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that did'nt go so well. Reflection and feedback is how we level up and grow as a team rather than individuals and sharing is paramount to this.
 
 ## Current Interests
 
 #### Music Production
 
-* A great way of escapism while being productive and engaging my creative side. This is what got me into technology.
-
 #### Restauranting
 
-* (eating). A good way to build with people and blow off some steam. It's a morale booster.
-
 #### Westworld
-
-* HBO Produced TV show about artificial intelligence.
