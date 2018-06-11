@@ -41,9 +41,7 @@ My previous career roles in events promotions & property maintenance has allowed
 
 | Project                                                        | Description                                                                                                                                                                          | Tech                                 | Testing     |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ----------- |
-| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | A web based job allocation system that allows businesses to manage sub-contractor tasks via SMS.
-
- | GraphQL, Node.js, React, Javascript. | Jest, Mocha |
+| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | A web based job allocation system that allows businesses to manage sub-contractor tasks via SMS. | GraphQL, Node.js, React, Javascript. | Jest, Mocha |
 | [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | I had to implement a fully functional cash machine register according to specification using IIFE class constructor patterns and prototypical inheritance within 7 days.                                                                                               | Javascript, JQuery                           |       Mocha, Chai, Sinon, Capybara      |
 
 
