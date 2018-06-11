@@ -22,7 +22,7 @@
 
 <hr></hr>
 A full-stack developer & Makers Academy Fellowship student who produces visually appealing products using clean and concise code. I am comfortable with both front & back-end technologies and have experience with a range of database technologies.
-I have a preference for front-end as it plays on my strengths relating to visual expression but I also enjoy working server-side too!.<br><br>
+I have a preference for front-end as it plays on my strengths relating to visual expression but I also enjoy working server-side & implementing core functionality too!<br><br>
 
 My previous career roles in events promotions & property maintenance has allowed me to develop my communication & management skills to a standard that combined with what I have learnt with software development, gives me a great foundation for a successful tech career.
 
