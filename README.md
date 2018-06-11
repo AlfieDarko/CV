@@ -41,7 +41,9 @@ My previous career roles in events promotions & property maintenance has allowed
 
 | Project                                                        | Description                                                                                                                                                                          | Tech                                 | Testing     |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ----------- |
-| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | Automated SMS system to inform sub-contractors of job details and to let the client know when a job is complete | GraphQL, Node.js, React, Javascript. | Jest, Mocha |
+| [Job-Slink](https://github.com/AlfieDarko/job-slink)           | A web based job allocation system that allows businesses to manage sub-contractor tasks via SMS.
+
+ | GraphQL, Node.js, React, Javascript. | Jest, Mocha |
 | [Till Tech Test](https://github.com/AlfieDarko/Till-Tech-Test) | I had to implement a fully functional cash machine register according to specification using IIFE class constructor patterns and prototypical inheritance within 7 days.                                                                                               | Javascript, JQuery                           |       Mocha, Chai, Sinon, Capybara      |
 
 
@@ -65,10 +67,9 @@ My previous career roles in events promotions & property maintenance has allowed
 
 ##### Co-founder @ ClickServices / ClickCleanit LTD - (www.clickcleanit.com) (2017 - 2018)
 
+* Setup the website & initial Google AdWord campaigns. Allows me to grasp the basics of SEO Marketing before outsourcing this task to professionals.
 * Successfully transitioned from cleaning to property maintenance & management in less than a year by identifying ways to bring down our clients costs via a stronger business relationship.
 * Built the business via cold approaching and pitching to potential clients. Our dedication to client satisfaction has been our engine of growth.
-* Managed core team of staff with varying roles from domestic cleaners & removal men to inventory clerks
-* Setup the website & initial Google AdWord campaigns. Allows me to grasp the basics of SEO Marketing before outsourcing this task to professionals.
 
 ##### Events Promoter (Freelance) (2014-2016)
 
