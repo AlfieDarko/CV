@@ -65,7 +65,7 @@ My previous career roles in events promotions & property maintenance has allowed
 
 ##### Co-founder @ ClickServices / ClickCleanit LTD - (www.clickcleanit.com) (2017 - 2018)
 
-* Setup the website & initial Google AdWord campaigns. Allows me to grasp the basics of SEO Marketing before outsourcing this task to professionals.
+* Setup the website & initial Google AdWord campaigns. Allowed me to grasp the basics of SEO Marketing before outsourcing this task to professionals.
 * Successfully transitioned from cleaning to property maintenance & management in less than a year by identifying ways to bring down our clients costs via a stronger business relationship.
 * Built the business via cold approaching and pitching to potential clients. Our dedication to client satisfaction has been our engine of growth.
 
@@ -103,7 +103,7 @@ Through experimentation, I was able to come up with a viable solution & working 
 #### Helpful Team Member
 
 At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance and feedback. I strongly believe you don't know something until you can teach it.<br><br>
-This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students. I also supplemented my mentorship to them by writing medium articles on my previous experiences during group work.<br><br>
+This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students. I also supplemented my mentorship to them by writing [medium articles](https://medium.com/@AlfieDarko) on my previous experiences during group work.<br><br>
 My mentees were able to avoid the pitfalls of group-work that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that didn't go so well. Reflection and feedback is how we level up and grow as a team rather than individuals and sharing is paramount to this.
 
 ## Current Interests
