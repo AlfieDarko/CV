@@ -82,7 +82,7 @@ My previous career roles in events promotions & property maintenance has allowed
 
 I have been able to develop strong communication skills during my time at ClickServices by necessity.
 
-Being involved in small company meant that each of us had to contribute to building the clientbase of this business.
+Being involved in small company meant that each of us had to contribute to building the client base of this business.
 This meant that we all needed to be involved in cold approaching clients and pitching our business to them. This was a slightly different from anything we have done before so it was challenging.
 
 We decided to just jump in at the deep end and canvas our local areas of estate agents 1 by 1 using Google Maps. Learning to accept rejection and flaking was tough but it taught us the only way we can minimise this and increase the seeds of our efforts is by being super-effective and efficient communicators.
@@ -97,15 +97,15 @@ Communicating to our staff that the job is slightly different than usual and let
 <br><br>
 As a result, we have kept a great and interesting clients by not being rigid in as to what we can deliver to clients. Being flexible whilst growing is so important.
 #### Problem Solving
-I take pride in solving technical challenges. I appraoch them relentlessly.<br><br>
+I take pride in solving technical challenges. I approach them relentlessly.<br><br>
 For our facebook project, we wanted to implement a live chat feature but had troubles coming up with a viable way to do so via ruby on rails as many of the online resources regarding this was outdated. <br><br>
 Through experimentation, I was able to come up with a viable solution & working demo using ActionCable, TurboLinks and Redis and implement a near faithful copy complete with online/offline status. We now had a great product demo to demonstrate to our cohort and we were the only group to have managed to build the messenger feature as a result.
 
 #### Helpful Team Member
 
-At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance and feedback. I strongly believe you dont know something until you can teach it.<br><br>
+At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance and feedback. I strongly believe you don't know something until you can teach it.<br><br>
 This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students. I also supplemented my mentorship to them by writing medium articles on my previous experiences during group work.<br><br>
-My mentees were able to avoid the pitfalls of groupwork that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that did'nt go so well. Reflection and feedback is how we level up and grow as a team rather than individuals and sharing is paramount to this.
+My mentees were able to avoid the pitfalls of group-work that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that didn't go so well. Reflection and feedback is how we level up and grow as a team rather than individuals and sharing is paramount to this.
 
 ## Current Interests
 
