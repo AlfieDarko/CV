@@ -89,12 +89,12 @@ We decided to just jump in at the deep end and canvas our local areas of estate 
 Our change in philosophy meant that we increased our conversion rates tremendously and now work with a large pool of trusted clients that we won over by explaining effectively how we could add value to their business.
 #### Client Centric
 
-My previous experience has allowed me to identify ways to create a positive experience for customers and clients. Many of our customers had very specific demands in terms on the management of their properties and it was our duty to uphold this. No two jobs were ever the same.
+My previous experience has allowed me to identify ways to create a positive experience for customers and clients. Many of our customers had very specific demands in terms off the management of their properties and it was our duty to uphold this. No two jobs were ever the same.
 <br><br>
 We recently had to help manage a demo event for Moley Robotics ( AI Robotic Kitchen Assistant Company). Even though this was slightly outside of our business services, my previous experience in events promotions and our desire to please customers meant we were able to help.
-Communicating to our staff that the job is slightly different than usual and letting them know of the changed expectations, we were able to successfully assist Moley Robotics in their demo event.
+Communicating with our staff that the job is slightly different than usual and letting them know of the changed expectations, we were able to successfully assist Moley Robotics in their demo event.
 <br><br>
-As a result, we have kept a great and interesting clients by not being rigid in as to what we can deliver to clients. Being flexible whilst growing is so important.
+As a result, we have kept great & interesting clients by not being rigid in as to what we can deliver to clients. Being flexible whilst growing is so important.
 #### Problem Solving
 I take pride in solving technical challenges. I approach them relentlessly.<br><br>
 For our facebook project, we wanted to implement a live chat feature but had troubles coming up with a viable way to do so via ruby on rails as many of the online resources regarding this was outdated. <br><br>
@@ -104,7 +104,7 @@ Through experimentation, I was able to come up with a viable solution & working 
 
 At Makers, I enjoyed being someone in my cohort that people could reach out as often as they needed for coding assistance and feedback. I strongly believe you don't know something until you can teach it.<br><br>
 This lead me to enter the Makers Academy Mentorship programme and taking on 2 Makers students. I also supplemented my mentorship to them by writing [medium articles](https://medium.com/@AlfieDarko) on my previous experiences during group work.<br><br>
-My mentees were able to avoid the pitfalls of group-work that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that didn't go so well. Reflection and feedback is how we level up and grow as a team rather than individuals and sharing is paramount to this.
+My mentees were able to avoid the pitfalls of group-work that we faced previously and this positively impacted their work. Sharing knowledge and experience is so important, even if it's about something that didn't go so well. Reflection and feedback are how we level up and grow as a team rather than individuals. Sharing is paramount to this.
 
 ## Current Interests
 
